@@ -1,16 +1,72 @@
-## Hi there 👋
+![banner](https://i.imgur.com/6mbXVX8.png)
+<h1 align="center">💻 Hey, Hackers! I'm Chad. </h1>
+<h3 align="center">A passionate Cybersecurity professional, 👾 Gacha / ☕Coffee addict, and Malware Reverse engineer. </h3>
+ <br />
 
-<!--
-**GlitchKraken/GlitchKraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Thanks for checking out my GitHub! This repo is meant to more-or-less showcase everything I've picked up in cyber along the way.
 
-Here are some ideas to get you started:
+Below are sections detailing all the different projects I've worked on, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+
+
+ <br />
+ <br />
+
+
+<h2>  🖥️ Projects  :</h2>
+
+
+
+<div>
+
+
+
+
+
+<h2>🌎 🔐 Cyber Security / IT Projects  🌎 🔐</h2>
+ <br />
+  
+ ---
+  
+ <br />
+
+  ## Pentesting Box Writeups
+  - 
+ <br />
+  
+  
+ ---
+  
+ <br />
+
+ ## Binary Exploitation Writeups
+  - 
+
+ <br />
+ 
+  
+  
+  
+  
+
+ ---
+  
+ <br />
+
+  ## Web Projects
+   -
+ <br />
+ 
+ 
+<h2> 📲 Connect with me here:</h2>
+  
+[<img align="left" alt="ChadFry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/-chad-fry/
+
+[<img align="left" alt="ChadFry | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[discord]: https://www.discord.com/users/117086477732675593

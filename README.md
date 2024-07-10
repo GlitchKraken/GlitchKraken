@@ -28,17 +28,7 @@ Below are sections detailing all the different projects I've worked on,
 
 
 <h2>🌎 🔐 Cyber Security / IT Projects  🌎 🔐</h2>
- <br />
-  
- ---
-  
- <br />
 
-  ## Pentesting Box Writeups
-  - 
- <br />
-  
-  
  ---
   
  <br />
@@ -49,6 +39,17 @@ Below are sections detailing all the different projects I've worked on,
  <br />
  
   
+  
+  
+ <br />
+  
+ ---
+  
+ <br />
+
+  ## Pentesting Box Writeups
+  - 
+ <br />
   
   
   

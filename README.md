@@ -69,4 +69,5 @@ Below are sections detailing all the different projects I've worked on,
 [linkedin]: https://www.linkedin.com/in/-chad-fry/
 
 [<img align="left" alt="ChadFry | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 [discord]: https://www.discord.com/users/117086477732675593

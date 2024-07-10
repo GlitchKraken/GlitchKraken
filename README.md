@@ -1,4 +1,4 @@
-![banner](https://giffiles.alphacoders.com/354/35494.gif)
+![banner](https://imgur.com/a/profile-banner-mt4IRT9)
 <h1 align="center">💻 Hey, Hackers! I'm Chad. </h1>
 <h3 align="center">A passionate Cybersecurity professional, 👾 Gacha / ☕Coffee addict, and Malware Reverse engineer. </h3>
  <br />

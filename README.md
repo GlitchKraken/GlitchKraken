@@ -34,7 +34,7 @@ Below are sections detailing all the different projects I've worked on,
  <br />
 
  ## Binary Exploitation Writeups
-  - [Pico CTF's "Here's a libc" challenge](https://github.com/GlitchKraken/PicoCTF---Heres-a-LibcC)
+  - [Pico CTF's "Here's a libc" challenge](https://github.com/GlitchKraken/PicoCTF---Heres-a-Libc.git)
 
  <br />
  

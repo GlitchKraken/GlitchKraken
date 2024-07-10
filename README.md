@@ -59,7 +59,8 @@ Below are sections detailing all the different projects I've worked on,
  <br />
 
   ## Web Projects
-   -
+   - [My Main Website. A bit out of date, but still a pretty big project!](https://supersecrethackinglab.com)
+   - [Wumpus Game, a web-dev project where I made a simple browser game based on deduction.](https://supersecrethackinglab.com/wumpusBlogPost.html)
  <br />
  
  

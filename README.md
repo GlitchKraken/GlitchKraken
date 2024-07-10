@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/zg18XL0.gif)
+![<img align="center">](https://i.imgur.com/zg18XL0.gif)
 <h1 align="center">💻 Hey, Hackers! I'm Chad. </h1>
 <h3 align="center">A passionate Cybersecurity professional, 👾 Gacha / ☕Coffee addict, and Malware Reverse engineer. </h3>
  <br />

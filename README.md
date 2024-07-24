@@ -38,7 +38,8 @@ Below are sections detailing all the different projects I've worked on,
 
  <br />
  
-  
+  ## Email Analysis
+  - [Spam Grader](https://github.com/GlitchKraken/SpamGrader?tab=readme-ov-file)
   
   
  <br />

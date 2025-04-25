@@ -35,6 +35,7 @@ Below are sections detailing all the different projects I've worked on,
 
  ## Binary Exploitation Writeups
   - [Pico CTF's "Here's a libc" challenge](https://github.com/GlitchKraken/PicoCTF---Heres-a-Libc.git)
+  - [Hack The Box Cyber Apocalypse 2025 -- Laconic](https://github.com/GlitchKraken/HTB_CyberApocalypse2025_Pwn-Laconic_writeup)
 
  <br />
  
